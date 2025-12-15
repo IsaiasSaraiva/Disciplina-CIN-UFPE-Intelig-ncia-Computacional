@@ -1,1 +1,8 @@
-
+opencv-python
+matplotlib
+pandas
+roboflow
+torch
+torchvision
+detectron2
+ultralytics
